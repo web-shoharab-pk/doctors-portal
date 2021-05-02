@@ -1,0 +1,26 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.sidebar{
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(0deg, #10CFE4, #19D3B0);
+    font-size: 25px; 
+    font-weight: 600;
+    color: white !important;
+    height: 100vh;
+}
+.option{
+    cursor: pointer;
+    color: white !important;
+    text-decoration: none;
+}
+.option:hover{
+   background-color: #10CFE4; 
+}
+.logout{
+    position: absolute;
+    bottom: 50px;
+    left: 80px;
+}

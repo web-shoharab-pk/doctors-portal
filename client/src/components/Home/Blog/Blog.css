@@ -1,0 +1,6 @@
+.card1{
+    background:linear-gradient(0deg, rgba(13, 248, 236, 0.3), rgba(6, 211, 230, 0.3)), url('../../images/quote.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,22 @@
+.footer{
+    background-image: url('../../images/footer-bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.link{
+    color: gray;
+    text-decoration: none;
+    padding: 10px;
+}
+.icon{ 
+    border: 1px solid #0DCAF0;
+    border-radius: 50%;
+    padding: 5px;
+}
+.social-icon1{
+    color: #0DCAF0;
+}
+.social-icon1:hover{
+    color: white;
+    background-color: #0DCAF0;
+}

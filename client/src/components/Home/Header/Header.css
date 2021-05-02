@@ -1,0 +1,26 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.headerDiv {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    background-image: url('../../images/chairbg.png');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    z-index: 0;
+}
+
+.headerDiv::after {
+    height: 100%;
+    content: ' ';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 20%; 
+    background-color: #3A4256;
+    z-index: -1;
+    
+}

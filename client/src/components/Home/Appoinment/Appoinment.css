@@ -1,0 +1,16 @@
+.appoinment-container{
+    height: 23.5rem;
+    width: 100%;  
+    background-image: linear-gradient(0deg, rgba(4, 31, 29, 0.808), rgba(10, 26, 27, 0.726)), url('../../images/appointmentBg.png')   ;
+    color: white;
+    background-position: center;
+    background-size:  cover; 
+    background-repeat: no-repeat;
+    position: relative;
+    margin-top: 250px; 
+    opacity: .8;   
+}
+ 
+.appoinmentDoctor img{
+    transform: translateY(-150px);
+}

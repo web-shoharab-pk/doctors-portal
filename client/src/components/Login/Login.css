@@ -1,0 +1,15 @@
+.input-field{
+    border: none;
+     border-bottom: 2px solid #818181; 
+     line-height: 40px;
+}
+.googleLogin{
+    border: 2px solid #19D3B0;
+    background-color: #10CFE4;
+    border-radius: 50px;
+    color: white;
+    cursor: pointer;
+}
+.googleLogin img{
+    width: 40px;
+}
